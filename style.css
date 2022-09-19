@@ -1,0 +1,10 @@
+*{
+    background-color:black;
+    color: ivory;
+    font-weight: bold;
+    font-size: large;
+}
+
+.photo img{
+    width:400px;
+}
